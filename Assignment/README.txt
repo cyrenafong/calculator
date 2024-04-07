@@ -1,1 +1,0 @@
-# Functions# hƒÎhBy typing eƒÎf or clicking eƒÎf button, users could calculate with the value of pi (3.14159265). Users could directly insert eƒÎf after a number or single use.# g^yhBy typing e^f or clicking e^yf button, users could calculate the yth power of a number before e^f. The calculator will calculate after the value of y is inputted after e^f.
